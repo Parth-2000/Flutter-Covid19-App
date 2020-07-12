@@ -8,8 +8,14 @@ This app is made using flutter.
 In this app the Covid19 data of India is fetched from api using http request (Rest api).
 
 ## Output:
-
-![2020_07_12_20_47_48_0_](https://user-images.githubusercontent.com/67038867/87250328-aff33b80-c481-11ea-8e49-689752a3a4eb.gif)
+### Image1:
+![image1](https://user-images.githubusercontent.com/67038867/87250685-37da4500-c484-11ea-84e5-d2bb64a1150b.jpg)
+### Image2:
+![image2](https://user-images.githubusercontent.com/67038867/87250687-3c066280-c484-11ea-9cf0-d93d44be32d2.jpg)
+### Image3:
+![image3](https://user-images.githubusercontent.com/67038867/87250688-4163ad00-c484-11ea-912d-4d1e08e20a45.jpg)
+### Image4:
+![image4](https://user-images.githubusercontent.com/67038867/87250691-445e9d80-c484-11ea-9767-7cb79c30864f.jpg)
 
 
 Images used in above app are from https://www.iconfinder.com/iconsets/coronavirus-flat?utm_campaign=Virus%20awareness&utm_medium=landing%20page&utm_source=Webflow&utm_content=Coronavirus%20Flat%20by%20Becris .
