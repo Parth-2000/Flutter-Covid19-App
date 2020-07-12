@@ -1,6 +1,18 @@
-# covid19
+# Covid19TrackerApp
 
 A new Flutter project.
+
+## Description:
+
+This app is made using flutter. 
+In this app the Covid19 data of India is fetched from api using http request (Rest api).
+
+## Output:
+
+![2020_07_12_20_47_48_0_](https://user-images.githubusercontent.com/67038867/87250328-aff33b80-c481-11ea-8e49-689752a3a4eb.gif)
+
+
+Images used in above app are from https://www.iconfinder.com/iconsets/coronavirus-flat?utm_campaign=Virus%20awareness&utm_medium=landing%20page&utm_source=Webflow&utm_content=Coronavirus%20Flat%20by%20Becris .
 
 ## Getting Started
 
